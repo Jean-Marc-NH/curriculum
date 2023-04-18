@@ -1,0 +1,62 @@
+header {
+  width: 800px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+  padding: 20px;
+  background-color: rgb(68, 68, 68);
+}
+header img {
+  width: 200px;
+  border-radius: 100%;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  -ms-border-radius: 100%;
+  -o-border-radius: 100%;
+}
+header .costado {
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+main {
+  width: 840px;
+  margin: auto;
+  display: flex;
+  justify-content: flex-start;
+  font-family: sans-serif;
+}
+main .o {
+  font-weight: 600;
+  font-style: italic;
+}
+main h2 {
+  width: 100%;
+  border-bottom: 3px solid black;
+}
+main aside {
+  width: 260px;
+  background-color: rgb(197, 197, 197);
+  padding: 25px;
+}
+main aside .a {
+  margin-top: 0px;
+  margin-bottom: 50px;
+}
+main aside .bloque {
+  margin: 55px 0;
+}
+main .info {
+  width: 540px;
+  padding: 25px;
+}
+main .info div {
+  margin: 20px 0;
+}
+main span {
+  font-weight: 100;
+  font-style: normal;
+  color: rgb(155, 155, 155);
+}/*# sourceMappingURL=style.css.map */
